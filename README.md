@@ -1,2 +1,2 @@
 # DEAP-Emotion-Classification-program
-This project is for classification of  emotions using EEG signals recorded in the DEAP dataset to achieve high accuracy score using machine learning algorithms  such as Support vector machine  and  Deep Learning method GCN/GAT
+This project is for classification of  emotions using EEG signals recorded in the DEAP dataset to achieve high accuracy score using machine learning algorithms  such as Support vector machine  and  Deep Learning method GCN/GAT. The program is from my course items and it may refers some code from github. If you want to get the dataset, you can research the DEAP website or Kaggle. I hope the accuracy can improve if you have optimization method, everyone is welcome to upload here.
